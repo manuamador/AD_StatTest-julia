@@ -13,6 +13,6 @@ _______
 
     using Distributions
     include("ADTest.jl")
-    X = rand(Exponential(1),100);
+    X = rand(Exponential(1),100)
     ADTest(X,"Exponential")
     ADTest(sqrt(X),"Rayleigh")
