@@ -7,6 +7,8 @@ Requirements
 ____________
 
 * Julia v0.2+
+* Distributions package
+
 
 Example
 _______
